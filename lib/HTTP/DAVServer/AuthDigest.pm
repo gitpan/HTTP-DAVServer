@@ -1,6 +1,8 @@
 
 package HTTP::DAVServer::AuthDigest;
 
+our $VERSION=0.1;
+
 use strict;
 use warnings;
 

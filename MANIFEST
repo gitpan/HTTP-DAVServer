@@ -19,5 +19,6 @@ lib/HTTP/DAVServer/PROPFIND.pm
 lib/HTTP/DAVServer/PROPPATCH.pm
 lib/HTTP/DAVServer/PUT.pm
 lib/HTTP/DAVServer/UNLOCK.pm
+t/01use.t
 MANIFEST
 TODO

@@ -2,6 +2,8 @@
 
 package HTTP::DAVServer::MKCOL;
 
+our $VERSION=0.1;
+
 use strict;
 use warnings;
 

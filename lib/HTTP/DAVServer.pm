@@ -5,6 +5,8 @@ use warnings;
 
 package HTTP::DAVServer;
 
+our $VERSION=0.1;
+
 =head1 NAME
 
 HTTP::DAVServer - allows you to write server-side functions to accept, process and respond to WebDAV client requests. WebDAV - RFC 2518 - is a protocol which allows clients to manipulate files on a remote server using HTTP.
